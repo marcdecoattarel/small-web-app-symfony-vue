@@ -10,3 +10,5 @@ backend/var/
 backend/vendor/
 ###< symfony/framework-bundle ###
 /backend/.env
+/backend/.env.dev
+/backend/.gitignore
