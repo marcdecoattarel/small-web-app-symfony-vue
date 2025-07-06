@@ -1,7 +1,8 @@
 <template>
-  <div>
-    <h1>Track Manager</h1>
-    <p>Start coding...</p>
+  <div class="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600">
+    <h1 class="text-3xl font-bold text-white text-center py-8">
+      Track Manager
+    </h1>
   </div>
 </template>
 
