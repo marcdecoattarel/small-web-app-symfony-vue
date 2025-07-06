@@ -12,3 +12,4 @@ backend/vendor/
 /backend/.env
 /backend/.env.dev
 /backend/.gitignore
+/frontend/node_modules
